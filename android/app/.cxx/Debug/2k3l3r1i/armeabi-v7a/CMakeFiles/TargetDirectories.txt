@@ -1,0 +1,2 @@
+D:/M-APP/vdta_v1/dutru/android/app/.cxx/Debug/2k3l3r1i/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/M-APP/vdta_v1/dutru/android/app/.cxx/Debug/2k3l3r1i/armeabi-v7a/CMakeFiles/rebuild_cache.dir
